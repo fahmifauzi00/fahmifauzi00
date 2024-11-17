@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there, I'm Fahmi Fauzi
 
-<!--
-**fahmifauzi00/fahmifauzi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Self-taught Generative AI Developer passionate about solving real-world problems through AI. Transitioned from medical studies to data analytics, and now specializing in AI development. Love exploring new technologies and building practical solutions.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **AI/ML:** OpenAI GPT-4/3.5, Claude 3.5/3, Gemini-1.5 Pro/Flash, MaLLaM (Bahasa Malaysia)
+- **Core:** Python, FastAPI, LangChain, LlamaIndex, AWS Bedrock, RAG
+- **Specialties:** Text Generation, Conversational AI, RAG Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Featured Projects
+- **Biar Kami Masak** - Fun AI Chef that recommends recipes based on available ingredients
+- **ESG RAG Application** - Enterprise solution for ESG topics and reporting
+- **Web-Enabled AI Assistant** - Conversational AI with web search capabilities using Claude & SERP API
+
+### 🌱 Current Focus & 2024 Goals
+- Mastering AI/ML Model Training and Fine-tuning
+- Exploring TTS, STT, and Image Recognition
+- Enhancing RAG evaluation methodologies
+- Building more impactful AI projects
+
+### 🎓 Learning Journey
+- Self-taught through DeepLearning.ai, Coursera, freeCodeCamp, and various YouTube channels
+- Active reader on Medium and X for latest AI developments
+- Certified in Generative AI (Coursera)
+
+### 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/wan-fahmifauzi/)
+- 🌐 Personal Website (Coming Soon!)
+
+---
+⭐️ From [fahmifauzi00](https://github.com/fahmifauzi00)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahmifauzi00&show_icons=true&theme=radical)
