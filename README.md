@@ -6,7 +6,7 @@ Self-taught Generative AI Developer passionate about solving real-world problems
 ### 🛠️ Tech Stack & Tools
 - **AI/ML:** OpenAI GPT-4/3.5, Claude 3.5/3, Gemini-1.5 Pro/Flash, MaLLaM (Bahasa Malaysia)
 - **Core:** Python, FastAPI, LangChain, LlamaIndex, AWS Bedrock, RAG
-- **Specialties:** Text Generation, Conversational AI, RAG Applications
+- **Specialties:** Text Generation, Conversational AI, RAG Applications, Prompt Engineering
 
 ### 🔭 Featured Projects
 - **Biar Kami Masak** - Fun AI Chef that recommends recipes based on available ingredients
@@ -15,7 +15,7 @@ Self-taught Generative AI Developer passionate about solving real-world problems
 
 ### 🌱 Current Focus & 2024 Goals
 - Mastering AI/ML Model Training and Fine-tuning
-- Exploring TTS, STT, and Image Recognition
+- Exploring Agentic AI, TTS, STT, and Image Recognition
 - Enhancing RAG evaluation methodologies
 - Building more impactful AI projects
 
