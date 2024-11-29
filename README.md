@@ -16,4 +16,4 @@ Self-taught Generative AI Developer passionate about solving real-world problems
 
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/wan-fahmifauzi/)
-- 🌐 Personal Website (Coming Soon!)
+- 🌐 Personal Website: [Fahmi Fauzi](https://fahmifauzi.my/)
