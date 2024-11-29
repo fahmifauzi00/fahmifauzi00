@@ -3,6 +3,9 @@
 ## About Me
 Self-taught Generative AI Developer passionate about solving real-world problems through AI. Transitioned from medical studies to data analytics, and now specializing in AI development. Love exploring new technologies and building practical solutions.
 
+### 🛠️ Currently Working On...
+- **Meeting Minutes Generator** - An AI-powered meeting minutes generator that transcribes audio recordings and generates structured meeting documentation in various formats.
+  
 ### 🔭 Featured Projects
 - **Biar Kami Masak** - Fun AI Chef that recommends recipes based on available ingredients
 - **ESG RAG Application** - Enterprise solution for ESG topics and reporting
@@ -16,4 +19,4 @@ Self-taught Generative AI Developer passionate about solving real-world problems
 
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/wan-fahmifauzi/)
-- 🌐 Personal Website: [Fahmi Fauzi](https://fahmifauzi.my/)
+- 🌐 [Personal Website](https://fahmifauzi.my/)
